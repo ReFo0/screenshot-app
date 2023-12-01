@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "screenshot app", "screenshot app\screenshot app.vcxproj", "{9B0451A5-9C79-49E4-9B5D-D883EC5A4290}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B0451A5-9C79-49E4-9B5D-D883EC5A4290}.Debug|x64.ActiveCfg = Debug|x64
+		{9B0451A5-9C79-49E4-9B5D-D883EC5A4290}.Debug|x64.Build.0 = Debug|x64
+		{9B0451A5-9C79-49E4-9B5D-D883EC5A4290}.Debug|x86.ActiveCfg = Debug|Win32
+		{9B0451A5-9C79-49E4-9B5D-D883EC5A4290}.Debug|x86.Build.0 = Debug|Win32
+		{9B0451A5-9C79-49E4-9B5D-D883EC5A4290}.Release|x64.ActiveCfg = Release|x64
+		{9B0451A5-9C79-49E4-9B5D-D883EC5A4290}.Release|x64.Build.0 = Release|x64
+		{9B0451A5-9C79-49E4-9B5D-D883EC5A4290}.Release|x86.ActiveCfg = Release|Win32
+		{9B0451A5-9C79-49E4-9B5D-D883EC5A4290}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34EFC807-D562-45D3-9BE9-2256D07329A4}
+	EndGlobalSection
+EndGlobal
