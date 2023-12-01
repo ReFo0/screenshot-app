@@ -1,5 +1,5 @@
-![](https://img.shields.io/github/stars/refo0/auto-offsets)
-![](https://img.shields.io/github/forks/refo0/auto-offsets)
+![](https://img.shields.io/github/stars/refo0/screenshot-app)
+![](https://img.shields.io/github/forks/refo0/screenshot-app)
 
 # Windows API Screenshot Project
 
