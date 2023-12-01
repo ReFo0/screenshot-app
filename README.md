@@ -28,3 +28,7 @@ This C++ application utilizes the Windows API to capture a screenshot and then u
 ## License
 
 This project is licensed under the MIT License. For detailed information, see the [LICENSE](LICENSE) file.
+
+## Exapmle
+
+![screenshot](https://github.com/ReFo0/screenshot-app/assets/77904942/5be6dc03-6ea9-4055-84f9-0ef5d81cddab)
