@@ -1,3 +1,5 @@
+# Windows API Screenshot Project
+
 This project contains a simple C++ application that captures a screenshot using the Windows API and saves the captured image in JPEG format.
 
 ## Project Description
